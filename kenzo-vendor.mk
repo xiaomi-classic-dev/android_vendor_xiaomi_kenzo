@@ -76,6 +76,20 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/kenzo/proprietary/etc/firmware/goodixfp.b02:system/etc/firmware/goodixfp.b02 \
     vendor/xiaomi/kenzo/proprietary/etc/firmware/goodixfp.b03:system/etc/firmware/goodixfp.b03 \
     vendor/xiaomi/kenzo/proprietary/etc/firmware/goodixfp.mdt:system/etc/firmware/goodixfp.mdt \
+    vendor/xiaomi/kenzo/proprietary/vendor/firmware/venus-v1.b00:system/vendor/firmware/venus-v1.b00 \
+    vendor/xiaomi/kenzo/proprietary/vendor/firmware/venus-v1.b01:system/vendor/firmware/venus-v1.b01 \
+    vendor/xiaomi/kenzo/proprietary/vendor/firmware/venus-v1.b02:system/vendor/firmware/venus-v1.b02 \
+    vendor/xiaomi/kenzo/proprietary/vendor/firmware/venus-v1.b03:system/vendor/firmware/venus-v1.b03 \
+    vendor/xiaomi/kenzo/proprietary/vendor/firmware/venus-v1.b04:system/vendor/firmware/venus-v1.b04 \
+    vendor/xiaomi/kenzo/proprietary/vendor/firmware/venus-v1.mbn:system/vendor/firmware/venus-v1.mbn \
+    vendor/xiaomi/kenzo/proprietary/vendor/firmware/venus-v1.mdt:system/vendor/firmware/venus-v1.mdt \
+    vendor/xiaomi/kenzo/proprietary/vendor/firmware/venus.b00:system/vendor/firmware/venus.b00 \
+    vendor/xiaomi/kenzo/proprietary/vendor/firmware/venus.b01:system/vendor/firmware/venus.b01 \
+    vendor/xiaomi/kenzo/proprietary/vendor/firmware/venus.b02:system/vendor/firmware/venus.b02 \
+    vendor/xiaomi/kenzo/proprietary/vendor/firmware/venus.b03:system/vendor/firmware/venus.b03 \
+    vendor/xiaomi/kenzo/proprietary/vendor/firmware/venus.b04:system/vendor/firmware/venus.b04 \
+    vendor/xiaomi/kenzo/proprietary/vendor/firmware/venus.mbn:system/vendor/firmware/venus.mbn \
+    vendor/xiaomi/kenzo/proprietary/vendor/firmware/venus.mdt:system/vendor/firmware/venus.mdt \
     vendor/xiaomi/kenzo/proprietary/vendor/etc/mbn_ota.txt:system/vendor/etc/mbn_ota.txt \
     vendor/xiaomi/kenzo/proprietary/vendor/etc/permissions/qcnvitems.xml:system/vendor/etc/permissions/qcnvitems.xml \
     vendor/xiaomi/kenzo/proprietary/vendor/etc/permissions/qcrilhook.xml:system/vendor/etc/permissions/qcrilhook.xml \
